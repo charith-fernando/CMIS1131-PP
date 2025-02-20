@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdbool.h> //include this library because u can't use keyword "true, false" without this
 
-#define PI = 3.141592654;
+#define PI 3.141592654
 
 void cube();
 void cuboid();
